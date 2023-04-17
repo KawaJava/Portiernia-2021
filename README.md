@@ -14,7 +14,7 @@ Program ten był moim pierwszym większym projektem napisanym w języku Java. Zr
 
 ## Instrukcja obsługi
 
-Dokładny opis działania aplikacji znajduje się na [mojej stronie internetowej](https://kawajava.github.io/).
+Dokładny opis działania aplikacji znajduje się na [mojej stronie internetowej](https://kawajava.github.io/aplikacjetypucrud).
 
 Aplikacja podzielona jest na trzy współpracujące ze sobą moduły:
 
